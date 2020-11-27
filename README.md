@@ -1,5 +1,5 @@
 # Big-Data-Analysis-on-Credit-Card-Fraud-Detection-Using-Spark-
-A Spark big data project analyzing a large financial transaction dataset with more than 1000,000 customer transaction records. and some machine learning models are built to predict fraudulent records and then evaluated.
+A Spark big data project analyzing a large financial transaction dataset with more than 100,000 customer transaction records. and some machine learning models are built to predict fraudulent records and then evaluated.
 
 #Use pyspark and sql to input and store data, and perform data cleaning to identify invalid data values and missing data values.
 
